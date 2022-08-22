@@ -13,4 +13,6 @@
    ```
 3. Navigate to `bet-fed-project` project folder
 4. Open the file `src > test > java > BetFed.java`
-5. Observe 2 functions and modify the test if you want
+5. There are 2 main functions for assignment: passwordValidation and verifyIndustryList
+6. Run the method with @Test to execute the code
+7. Modify the tests if you want
